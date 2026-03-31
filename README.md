@@ -1,1 +1,1 @@
-DSA and CP here by Aryan Tanna in CPP
+DSA and CP here by Aryan Tanna in C++
